@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1178","testLoginWithValidCredentials","All Test Suite","Sat Feb 15 20:01:59 EET 2025","failed","Sat Feb 15 20:02:00 EET 2025","LoginTest","Test On Edge","LoginTest","testLoginWithValidCredentials"
+"","977","testLoginWithInValidCredentials","All Test Suite","Sat Feb 15 20:01:53 EET 2025","passed","Sat Feb 15 20:01:54 EET 2025","LoginTest","Test On Chrome","LoginTest","testLoginWithInValidCredentials"
+"","1090","testLoginWithInValidCredentials","All Test Suite","Sat Feb 15 20:01:53 EET 2025","passed","Sat Feb 15 20:01:54 EET 2025","LoginTest","Test On Edge","LoginTest","testLoginWithInValidCredentials"
+"","33890","selectContactsFromMenu","Default Suite","Sat Feb 15 20:21:23 EET 2025","broken","Sat Feb 15 20:21:57 EET 2025","HomeTest","MyService","HomeTest","selectContactsFromMenu"
+"","1190","testLoginWithValidCredentials","All Test Suite","Sat Feb 15 20:01:58 EET 2025","failed","Sat Feb 15 20:01:59 EET 2025","LoginTest","Test On Chrome","LoginTest","testLoginWithValidCredentials"
